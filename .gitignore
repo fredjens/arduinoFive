@@ -1,7 +1,7 @@
 # Build folders #
 css-stats/
 .publish
-/dist
+dist/
 
 # OS generated files #
 ######################
